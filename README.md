@@ -1,2 +1,2 @@
 # fumofumo
-This is the first web-page that I created. It's about 'fumos', a line of high-quality plush character figures.
+This is the first web-page that I created. It's about 'fumos', a line of high-quality plush character figures. All the page is in Spanish!
